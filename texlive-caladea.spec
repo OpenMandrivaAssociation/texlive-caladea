@@ -3,7 +3,7 @@ Version:	64549
 Release:	2
 Summary:	Support for the Caladea family of fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/caladea
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/caladea
 License:	apache2 lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caladea.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/caladea.doc.r%{version}.tar.xz
